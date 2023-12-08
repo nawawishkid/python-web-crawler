@@ -21,15 +21,14 @@ Before you begin, ensure you have met the following requirements:
   pip install requests bs4
   ```
 
-````
-
 ### Installation & Usage
+
 Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/python-web-crawler.git
 cd python-web-crawler
-````
+```
 
 To run the web crawler, execute the script with Python:
 
